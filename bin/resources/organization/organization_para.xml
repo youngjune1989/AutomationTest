@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fvt_element>
+	<!-- Login-->
+	<arg id="loginUsername">
+		<value>xinlirong</value>
+	</arg>
+	
+	<arg id="loginPassword">
+		<value>000000</value>
+	</arg>
+	
+	
+</fvt_element>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ============================================= 
+     auto unittest task    
+                                                                   
+     ========================================== -->
+<project name="dcv3" default="testngreport" basedir=".">
+	<property name="bin.dir" value="bin" />
+	<property name="src.dir" value="src" />
+	<property name="test.dir" value="src" />
+	<property name="lib.dir" value="lib" />
+	<property name="report.dir" value="report" />
+	<property name="log.dir" value="log" />
+
+	<!-- - - - - - - - - - - - - - - - - - 
+          target: test report.dir init                      
+         - - - - - - - - - - - - - - - - - -->
+	<target name="test init">
+		<delete dir="${bin.dir}" />
+		<mkdir dir="${bin.dir}" />
+		<delete dir="${report.dir}" />
+		<mkdir dir="${report.dir}" />
+		<delete dir="${log.dir}" />
+		<mkdir dir="${log.dir}" />
+	</target>
+
+	<path id="compile.path">
+		<fileset dir="${lib.dir}">
+			<include name="**/*.jar" />
+		</fileset>
+
+	</path>
+	<!-- - - - - - - - - - - - - - - - - - 
+          target: compile                      
+      - - - - - - - - - - - - - - - - - -->
+	<target name="compile">
+		<javac srcdir="${src.dir}" destdir="${bin.dir}" classpathref="compile.path" encoding="UTF-8"/>
+		<echo>compilation complete!</echo>
+	</target>
+
+	<!-- - - - - - - - - - - - - - - - - - 
+          target: compile test cases                      
+         - - - - - - - - - - - - - - - - - -->
+	<target name="test compile" depends="test init">
+		<javac srcdir="${test.dir}" destdir="${bin.dir}" classpathref="compile.path" encoding="UTF-8" />
+		<copy todir="${bin.dir}">
+			<fileset dir="${src.dir}">
+				<include name="**/*.properties"/>
+				<include name="**/*.xml"/>
+			</fileset>
+		</copy>
+		<echo>test compilation complete!</echo>
+	</target>
+
+	<!-- - - - - - - - - - - - - - - - - - 
+	          target name="all compile" depends="compile, test compile"                      
+	         - - - - - - - - - - - - - - - - - -->
+	<target name="all compile" depends="test compile">
+	</target>
+
+	<!-- ======================================== 
+          target:(JUnit)auto test all test case and output report file                      
+      	 ===================================== -->
+	<target name="junitandreport" depends="all compile">
+		<junit printsummary="on" fork="true" showoutput="true">
+			<classpath>
+				<fileset dir="${lib.dir}" includes="**/*.jar" />
+				<pathelement path="${bin.dir}" />
+			</classpath>
+			<formatter type="xml" />
+			<batchtest todir="${report.dir}">
+				<fileset dir="${bin.dir}">
+					<include name="**/*Test.*" />
+				</fileset>
+			</batchtest>
+		</junit>
+		<junitreport todir="${report.dir}">
+			<fileset dir="${report.dir}">
+				<include name="TEST-*.xml" />
+			</fileset>
+			<report format="frames" todir="${report.dir}" />
+		</junitreport>
+	</target>
+	<!-- ======================================== 
+	          target:(TestNG) auto test all test case and output report file                      
+	      	 ===================================== -->
+	<taskdef resource="testngtasks" classpathref="compile.path" />
+	<path id="runpath">
+		<fileset dir="${lib.dir}" includes="**/*.jar" />
+		<pathelement path="${bin.dir}" />
+	</path>
+	<target name="testng" depends="all compile">
+		<echo message="running tests" />
+		<testng classpathref="runpath" 
+			outputDir="${report.dir}"
+			useDefaultListeners="true"
+			haltonfailure="false"
+			listeners="org.uncommons.reportng.HTMLReporter,org.uncommons.reportng.JUnitXMLReporter,org.testng.reporters.FailedReporter"
+			>
+			<xmlfileset dir=".">
+				<include name="testng.xml" />
+				<!-- includes="{testng.dir}"/-->
+			</xmlfileset>
+			<sysproperty key="file.encoding" value="UTF-8"/>
+			<sysproperty key="java.util.logging.config.file" value="./src/log4j.properties"/>
+			<sysproperty key="org.uncommons.reportng.title" value="Auto Test Report"/>
+			<sysproperty key="org.uncommons.reportng.escape-output" value="false"/>
+			<jvmarg value="-ea" />
+			<!--
+			<reporter classname=".config.CustomReporter">
+			      <property name="methodFilter" value="*insert*"/>
+			      <property name="enableFiltering" value="true"/>
+				  <property name="generateTestResultAttributes" value="true"/>
+			</reporter>
+			-->
+		</testng>
+	</target>
+	<target name="testngreport" depends="testng">
+		<xslt in="${report.dir}/testng-results.xml" style="./utils/testng-results.xsl" out="${report.dir}/index1.html" processor="SaxonLiaison">
+			<param expression="E:\wyj\workspace\DCV3Test\report" name="testNgXslt.outputDir"  />
+			<param expression="true" name="testNgXslt.sortTestCaseLinks" />
+			<param expression="FAIL,SKIP,PASS,CONF,BY_CLASS" name="testNgXslt.testDetailsFilter" />
+			<param expression="true" name="testNgXslt.showRuntimeTotals" />
+			<classpath refid="compile.path" />
+		</xslt>
+	</target>
+</project>

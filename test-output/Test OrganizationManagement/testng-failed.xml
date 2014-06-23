@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test OrganizationManagement]">
+  <parameter name="baseUrl" value="http://192.168.30.170:8887"/>
+  <parameter name="department_para" value="/src/resources/organization/department_para.xml"/>
+  <parameter name="organization_para" value="/src/resources/organization/organization_para.xml"/>
+  <test name="Test Department(failed)">
+    <classes>
+      <class name="test.testcases.organization.DepartmentTest">
+        <methods>
+          <include name="testEnable"/>
+          <include name="testEdit"/>
+          <include name="setup"/>
+          <include name="testDelete"/>
+          <include name="testAdd"/>
+        </methods>
+      </class> <!-- test.testcases.organization.DepartmentTest -->
+    </classes>
+  </test> <!-- Test Department(failed) -->
+</suite> <!-- Failed suite [Test OrganizationManagement] -->

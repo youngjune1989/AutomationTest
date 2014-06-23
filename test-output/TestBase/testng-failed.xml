@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestBase]">
+  <parameter name="baseUrl" value="http://192.168.30.170:8887"/>
+  <parameter name="firefox_dir" value="D:\Program Files\Mozilla Firefox\firefox.exe"/>
+  <parameter name="ff" value=".\\utils\\chromedriver.exe"/>
+  <parameter name="ie" value="webdriver.ie.driver"/>
+  <parameter name="chrome" value=".\\utils\\IEDriverServer.exe"/>
+  <parameter name="ie_dir" value=".\\utils\\IEDriverServer.exe"/>
+  <parameter name="notice_para" value="/src/resources/notice/notice_para.xml"/>
+  <parameter name="organization_para" value="/src/resources/organization/organization_para.xml"/>
+  <parameter name="chrome_dir" value=".\\utils\\chromedriver.exe"/>
+  <listeners>
+    <listener class-name="test.utilities.CustomReporter"/>
+  </listeners>
+  <test name="Notice checkin Test(failed)">
+    <parameter name="notice_para" value="/src/resources/notice/notice_para.xml"/>
+    <groups>
+      <run>
+        <include name="checkintest"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="test.testcases.notice.NoticeTest">
+        <methods>
+          <include name="testSend"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="testReceiveTip" invocation-numbers="0"/>
+          <include name="setup"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- test.testcases.notice.NoticeTest -->
+    </classes>
+  </test> <!-- Notice checkin Test(failed) -->
+  <test name="Notice function Test(failed)">
+    <parameter name="notice_para" value="/src/resources/notice/notice_para.xml"/>
+    <groups>
+      <run>
+        <include name="functiontest"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="test.testcases.notice.NoticeTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="setup"/>
+          <include name="testDelete"/>
+        </methods>
+      </class> <!-- test.testcases.notice.NoticeTest -->
+    </classes>
+  </test> <!-- Notice function Test(failed) -->
+</suite> <!-- Failed suite [TestBase] -->

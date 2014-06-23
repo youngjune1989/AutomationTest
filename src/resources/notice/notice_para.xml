@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fvt_element>
+
+	<!-- Login-->
+	<arg id="sender">
+		<value>zhuangy</value>
+	</arg>
+	
+	<arg id="receiver01">
+		<value>alexandra</value>
+	</arg>
+	
+	<arg id="receiver02">
+		<value>alicejoy</value>
+	</arg>
+	
+	<arg id="loginPassword">
+		<value>000000</value>
+	</arg>
+	
+	<!-- Message -->
+	<arg id="titleTxtField">
+		<value>关于数字化校园培训的通知</value>
+	</arg>
+	
+	<arg id="contentTxtField">
+		<value>拟定于本月30日在全校范围开展数字化校园培训，请各位教师与学生积极参加。</value>
+	</arg>
+	
+	<arg id="uploadFile">
+		<value>E:\20140521_wyj_automationtest.ppt</value>
+	</arg>
+	
+	<arg id="editTitleTxt">
+		<value>（修改）关于数字化校园培训的通知</value>
+	</arg>
+	
+	<arg id="editContentTxt">
+		<value>（修改）</value>
+	</arg>
+</fvt_element>

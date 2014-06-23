@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+    <line>
+      <![CDATA[message has been send.]]>
+    </line>
+    <line>
+      <![CDATA[Title assert success]]>
+    </line>
+    <line>
+      <![CDATA[(Before read)Status assert success]]>
+    </line>
+    <line>
+      <![CDATA[Content assert success.]]>
+    </line>
+    <line>
+      <![CDATA[Timed out after 5 seconds waiting for test.tasks.notice.TestNoticeTasks$2@1922f46
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:11:15'
+System info: host: 'lenovo-PC', ip: '192.168.30.170', os.name: 'Windows Vista', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_10-rc2'
+Driver info: driver.version: unknown]]>
+    </line>
+    <line>
+      <![CDATA[Title assert success.]]>
+    </line>
+    <line>
+      <![CDATA[Cannot find elements when the XPath expression is null.]]>
+    </line>
+    <line>
+      <![CDATA[message has been send.]]>
+    </line>
+    <line>
+      <![CDATA[message has been send.]]>
+    </line>
+  </reporter-output>
+  <suite name="TestBase" duration-ms="248358" started-at="2014-05-31T08:31:16Z" finished-at="2014-05-31T08:35:24Z">
+    <groups>
+      <group name="functiontest">
+        <method signature="NoticeTest.testSend(java.lang.String)[pri:0, instance:test.testcases.notice.NoticeTest@1d7ad1c]" name="testSend" class="test.testcases.notice.NoticeTest"/>
+        <method signature="NoticeTest.testSend(java.lang.String)[pri:0, instance:test.testcases.notice.NoticeTest@2d9c06]" name="testSend" class="test.testcases.notice.NoticeTest"/>
+        <method signature="NoticeTest.testDelete()[pri:0, instance:test.testcases.notice.NoticeTest@2d9c06]" name="testDelete" class="test.testcases.notice.NoticeTest"/>
+        <method signature="NoticeTest.testEdit(java.lang.String)[pri:0, instance:test.testcases.notice.NoticeTest@2d9c06]" name="testEdit" class="test.testcases.notice.NoticeTest"/>
+        <method signature="NoticeTest.testStatic()[pri:0, instance:test.testcases.notice.NoticeTest@2d9c06]" name="testStatic" class="test.testcases.notice.NoticeTest"/>
+      </group> <!-- functiontest -->
+      <group name="checkintest">
+        <method signature="NoticeTest.testSend(java.lang.String)[pri:0, instance:test.testcases.notice.NoticeTest@1d7ad1c]" name="testSend" class="test.testcases.notice.NoticeTest"/>
+        <method signature="NoticeTest.testReceive(java.lang.String)[pri:0, instance:test.testcases.notice.NoticeTest@1d7ad1c]" name="testReceive" class="test.testcases.notice.NoticeTest"/>
+        <method signature="NoticeTest.testReceiveTip(java.lang.String)[pri:0, instance:test.testcases.notice.NoticeTest@1d7ad1c]" name="testReceiveTip" class="test.testcases.notice.NoticeTest"/>
+        <method signature="NoticeTest.testSend(java.lang.String)[pri:0, instance:test.testcases.notice.NoticeTest@2d9c06]" name="testSend" class="test.testcases.notice.NoticeTest"/>
+      </group> <!-- checkintest -->
+    </groups>
+    <test name="Notice checkin Test" duration-ms="117982" started-at="2014-05-31T08:31:16Z" finished-at="2014-05-31T08:33:14Z">
+      <class name="test.testcases.notice.NoticeTest">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:test.testcases.notice.NoticeTest@1d7ad1c]" name="setup" is-config="true" duration-ms="5097" started-at="2014-05-31T16:31:16Z" finished-at="2014-05-31T16:31:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/src/resources/notice/notice_para.xml]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://192.168.30.170:8887]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testSend(java.lang.String)[pri:0, instance:test.testcases.notice.NoticeTest@1d7ad1c]" name="testSend" duration-ms="50926" started-at="2014-05-31T16:31:21Z" finished-at="2014-05-31T16:32:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/src/resources/notice/notice_para.xml]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[message has been send.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSend -->
+        <test-method status="PASS" signature="testReceive(java.lang.String)[pri:0, instance:test.testcases.notice.NoticeTest@1d7ad1c]" name="testReceive" duration-ms="18585" started-at="2014-05-31T16:32:12Z" depends-on-methods="test.testcases.notice.NoticeTest.testSend" finished-at="2014-05-31T16:32:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/src/resources/notice/notice_para.xml]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Title assert success]]>
+            </line>
+            <line>
+              <![CDATA[(Before read)Status assert success]]>
+            </line>
+            <line>
+              <![CDATA[Content assert success.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testReceive -->
+        <test-method status="PASS" signature="testReceiveTip(java.lang.String)[pri:0, instance:test.testcases.notice.NoticeTest@1d7ad1c]" name="testReceiveTip" duration-ms="42333" started-at="2014-05-31T16:32:30Z" depends-on-methods="test.testcases.notice.NoticeTest.testSend" finished-at="2014-05-31T16:33:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/src/resources/notice/notice_para.xml]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Timed out after 5 seconds waiting for test.tasks.notice.TestNoticeTasks$2@1922f46
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:11:15'
+System info: host: 'lenovo-PC', ip: '192.168.30.170', os.name: 'Windows Vista', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_10-rc2'
+Driver info: driver.version: unknown]]>
+            </line>
+            <line>
+              <![CDATA[Title assert success.]]>
+            </line>
+            <line>
+              <![CDATA[Cannot find elements when the XPath expression is null.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testReceiveTip -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.testcases.notice.NoticeTest@1d7ad1c]" name="tearDown" is-config="true" duration-ms="1030" started-at="2014-05-31T16:33:13Z" finished-at="2014-05-31T16:33:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.testcases.notice.NoticeTest -->
+    </test> <!-- Notice checkin Test -->
+    <test name="Notice function Test" duration-ms="130358" started-at="2014-05-31T08:33:14Z" finished-at="2014-05-31T08:35:24Z">
+      <class name="test.testcases.notice.NoticeTest">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:test.testcases.notice.NoticeTest@2d9c06]" name="setup" is-config="true" duration-ms="4494" started-at="2014-05-31T16:33:14Z" finished-at="2014-05-31T16:33:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/src/resources/notice/notice_para.xml]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://192.168.30.170:8887]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testSend(java.lang.String)[pri:0, instance:test.testcases.notice.NoticeTest@2d9c06]" name="testSend" duration-ms="48896" started-at="2014-05-31T16:33:18Z" finished-at="2014-05-31T16:34:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/src/resources/notice/notice_para.xml]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[message has been send.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSend -->
+        <test-method status="PASS" signature="testDelete()[pri:0, instance:test.testcases.notice.NoticeTest@2d9c06]" name="testDelete" duration-ms="12406" started-at="2014-05-31T16:34:07Z" depends-on-methods="test.testcases.notice.NoticeTest.testSend" finished-at="2014-05-31T16:34:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDelete -->
+        <test-method status="PASS" signature="testEdit(java.lang.String)[pri:0, instance:test.testcases.notice.NoticeTest@2d9c06]" name="testEdit" duration-ms="41475" started-at="2014-05-31T16:34:19Z" depends-on-methods="test.testcases.notice.NoticeTest.testSend" finished-at="2014-05-31T16:35:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/src/resources/notice/notice_para.xml]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[message has been send.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testEdit -->
+        <test-method status="PASS" signature="testStatic()[pri:0, instance:test.testcases.notice.NoticeTest@2d9c06]" name="testStatic" duration-ms="22058" started-at="2014-05-31T16:35:01Z" depends-on-methods="test.testcases.notice.NoticeTest.testSend" finished-at="2014-05-31T16:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatic -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.testcases.notice.NoticeTest@2d9c06]" name="tearDown" is-config="true" duration-ms="1024" started-at="2014-05-31T16:35:23Z" finished-at="2014-05-31T16:35:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.testcases.notice.NoticeTest -->
+    </test> <!-- Notice function Test -->
+  </suite> <!-- TestBase -->
+</testng-results>

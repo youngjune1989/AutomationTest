@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fvt_element>
+	<!-- Add -->
+	<arg id="departmentName">
+		<value>测试组织</value>
+	</arg>
+	
+	<arg id="searchPosition">
+		<value>主任</value>
+	</arg>
+	
+	
+</fvt_element>

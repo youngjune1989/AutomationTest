@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestBase" verbose="1">
+
+	<listeners>
+    <listener class-name="test.utilities.CustomReporter" />
+ 	</listeners>
+ 
+	<!-- required for Selenium fixture -->
+ 	<parameter name="baseUrl" value="http://192.168.30.170:8887"/> 
+ 	<parameter name="ie" value="webdriver.ie.driver"/>
+ 	<parameter name="ff" value=".\\utils\\chromedriver.exe"/>
+ 	<parameter name="chrome" value=".\\utils\\IEDriverServer.exe"/>
+ 	<parameter name="firefox_dir" value="D:\Program Files\Mozilla Firefox\firefox.exe"/>
+ 	<parameter name="chrome_dir" value=".\\utils\\chromedriver.exe"/>
+ 	<parameter name="ie_dir" value=".\\utils\\IEDriverServer.exe"/>
+ 	
+ 	<!-- required for Module:organization -->
+	<parameter name="organization_para" value="/src/resources/organization/organization_para.xml"></parameter>
+	
+	
+	<!-- required for Module:notice -->
+	
+	
+	<test name="Notice checkin Test"  preserve-order="true">
+	<parameter name="notice_para" value = "/src/resources/notice/notice_para.xml"/>
+		<groups>
+			<run>
+				<include name="checkintest"/>
+			</run>
+		</groups>
+		<classes>
+			<class name = "test.testcases.notice.NoticeTest"/>
+		</classes>
+	</test>
+	<test name="Notice function Test"  preserve-order="true">
+	<parameter name="notice_para" value = "/src/resources/notice/notice_para.xml"/>
+		<groups>
+			<run>
+				<include name="functiontest"/>
+			</run>
+		</groups>
+		<classes>
+			<class name = "test.testcases.notice.NoticeTest"/>
+		</classes>
+    </test>
+    
+    <!--
+    <test name="Notice with para02">
+	<parameter name="notice_para" value = "/src/resources/notice/notice_para_02.xml"/>
+	<classes preserve-order="true">
+      <class name="test.testcases.notice.NoticeTest"/>
+    </classes>
+    </test>
+	-->
+</suite>

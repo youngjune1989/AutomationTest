@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" total="2" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Passed tests for suite 'TestBase' is:0]]>
+    </line>
+    <line>
+      <![CDATA[Failed tests for suite 'TestBase' is:1]]>
+    </line>
+    <line>
+      <![CDATA[Skipped tests for suite 'TestBase' is:0]]>
+    </line>
+    <line>
+      <![CDATA[Passed tests for suite 'TestBase' is:0]]>
+    </line>
+    <line>
+      <![CDATA[Failed tests for suite 'TestBase' is:1]]>
+    </line>
+    <line>
+      <![CDATA[Skipped tests for suite 'TestBase' is:0]]>
+    </line>
+  </reporter-output>
+  <suite name="TestBase" duration-ms="31" started-at="2014-05-26T08:28:40Z" finished-at="2014-05-26T08:28:40Z">
+    <groups>
+    </groups>
+    <test name="TestNotice_01" duration-ms="6" started-at="2014-05-26T08:28:40Z" finished-at="2014-05-26T08:28:40Z">
+      <class name="test.testcases.notice.NoticeTest">
+        <test-method status="FAIL" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:test.testcases.notice.NoticeTest@1995d80]" name="setup" is-config="true" duration-ms="0" started-at="2014-05-26T16:28:40Z" finished-at="2014-05-26T16:28:40Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'notice_para' is required by @Configuration on method setup but has not been marked @Optional or defined
+in E:\wyj\workspace\DCV3Test\testng.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'notice_para' is required by @Configuration on method setup but has not been marked @Optional or defined
+in E:\wyj\workspace\DCV3Test\testng.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:155)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:358)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:86)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:199)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:175)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:107)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.TestNG.privateMain(TestNG.java:1364)
+	at org.testng.TestNG.main(TestNG.java:1333)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="FAIL" signature="testSend(java.lang.String)[pri:0, instance:test.testcases.notice.NoticeTest@1995d80]" name="testSend" duration-ms="0" started-at="2014-05-26T16:28:40Z" finished-at="2014-05-26T16:28:40Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'notice_para' is required by @Test on method testSend but has not been marked @Optional or defined
+in E:\wyj\workspace\DCV3Test\testng.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'notice_para' is required by @Test on method testSend but has not been marked @Optional or defined
+in E:\wyj\workspace\DCV3Test\testng.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:155)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:358)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:450)
+	at org.testng.internal.Invoker.handleParameters(Invoker.java:1383)
+	at org.testng.internal.Invoker.createParameters(Invoker.java:1075)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1180)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.TestNG.privateMain(TestNG.java:1364)
+	at org.testng.TestNG.main(TestNG.java:1333)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSend -->
+        <test-method status="SKIP" signature="quit()[pri:0, instance:test.testcases.notice.NoticeTest@1995d80]" name="quit" is-config="true" duration-ms="0" started-at="2014-05-26T16:28:40Z" finished-at="2014-05-26T16:28:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- test.testcases.notice.NoticeTest -->
+    </test> <!-- TestNotice_01 -->
+    <test name="TestNotice_02" duration-ms="0" started-at="2014-05-26T08:28:40Z" finished-at="2014-05-26T08:28:40Z">
+      <class name="test.testcases.notice.NoticeTest">
+        <test-method status="FAIL" signature="testSend(java.lang.String)[pri:0, instance:test.testcases.notice.NoticeTest@1fc2fb]" name="testSend" duration-ms="0" started-at="2014-05-26T16:28:40Z" finished-at="2014-05-26T16:28:40Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'notice_para' is required by @Test on method testSend but has not been marked @Optional or defined
+in E:\wyj\workspace\DCV3Test\testng.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'notice_para' is required by @Test on method testSend but has not been marked @Optional or defined
+in E:\wyj\workspace\DCV3Test\testng.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:155)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:358)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:450)
+	at org.testng.internal.Invoker.handleParameters(Invoker.java:1383)
+	at org.testng.internal.Invoker.createParameters(Invoker.java:1075)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1180)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.TestNG.privateMain(TestNG.java:1364)
+	at org.testng.TestNG.main(TestNG.java:1333)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSend -->
+        <test-method status="FAIL" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:test.testcases.notice.NoticeTest@1fc2fb]" name="setup" is-config="true" duration-ms="0" started-at="2014-05-26T16:28:40Z" finished-at="2014-05-26T16:28:40Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'notice_para' is required by @Configuration on method setup but has not been marked @Optional or defined
+in E:\wyj\workspace\DCV3Test\testng.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'notice_para' is required by @Configuration on method setup but has not been marked @Optional or defined
+in E:\wyj\workspace\DCV3Test\testng.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:155)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:358)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:86)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:199)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:175)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:107)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.TestNG.privateMain(TestNG.java:1364)
+	at org.testng.TestNG.main(TestNG.java:1333)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="SKIP" signature="quit()[pri:0, instance:test.testcases.notice.NoticeTest@1fc2fb]" name="quit" is-config="true" duration-ms="0" started-at="2014-05-26T16:28:40Z" finished-at="2014-05-26T16:28:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- test.testcases.notice.NoticeTest -->
+    </test> <!-- TestNotice_02 -->
+  </suite> <!-- TestBase -->
+</testng-results>

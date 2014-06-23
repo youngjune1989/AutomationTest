@@ -1,0 +1,653 @@
+2014-05-27 10:38:54  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-27 10:38:54  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-27 10:38:56  test.testcases.notice.NoticeTest01.testReceiveTip(NoticeTest01.java:98)  Current method : testReceiveTip
+2014-05-27 10:39:02  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-27 10:39:02  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-27 10:39:03  test.testcases.notice.NoticeTest01.testReceiveTip(NoticeTest01.java:98)  Current method : testReceiveTip
+2014-05-27 10:39:09  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-27 10:39:09  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-27 10:39:11  test.testcases.notice.NoticeTest01.testReceiveTip(NoticeTest01.java:98)  Current method : testReceiveTip
+2014-05-27 10:39:15  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:74)  Current method : testSend
+2014-05-27 10:39:15  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=02?????30?????????????????????????????, titleTxtField=02????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-27 10:39:15  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:74)  Current method : testSend
+2014-05-27 10:39:15  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-27 10:39:15  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:74)  Current method : testSend
+2014-05-27 10:39:15  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-27 10:41:53  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-27 10:41:53  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-27 10:42:28  test.testcases.notice.NoticeTest01.testReceiveTip(NoticeTest01.java:98)  Current method : testReceiveTip
+2014-05-27 10:43:43  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-27 10:43:43  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-27 10:43:45  test.testcases.notice.NoticeTest01.testReceiveTip(NoticeTest01.java:98)  Current method : testReceiveTip
+2014-05-27 10:47:40  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-27 10:47:40  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-27 10:47:41  test.testcases.notice.NoticeTest01.testReceiveTip(NoticeTest01.java:98)  Current method : testReceiveTip
+2014-05-27 10:47:53  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-27 10:47:53  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-27 10:47:54  test.testcases.notice.NoticeTest01.testReceiveTip(NoticeTest01.java:98)  Current method : testReceiveTip
+2014-05-27 10:49:09  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-27 10:49:09  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-27 10:49:10  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:74)  Current method : testSend
+2014-05-27 10:49:10  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=02?????30?????????????????????????????, titleTxtField=02????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-27 10:50:26  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-27 10:50:26  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-27 10:50:27  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:74)  Current method : testSend
+2014-05-27 10:50:27  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=03?????30?????????????????????????????, titleTxtField=03????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-27 10:51:17  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-27 10:51:17  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-27 10:51:18  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:74)  Current method : testSend
+2014-05-27 10:51:18  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-27 10:52:06  test.testcases.notice.NoticeTest01.testReceive(NoticeTest01.java:143)  Current method : testReceive
+2014-05-27 10:52:15  test.testcases.notice.NoticeTest01.testReceive(NoticeTest01.java:143)  Current method : testReceive
+2014-05-27 10:52:25  test.testcases.notice.NoticeTest01.testReceive(NoticeTest01.java:143)  Current method : testReceive
+2014-05-27 10:52:41  test.testcases.notice.NoticeTest01.testReceiveTip(NoticeTest01.java:98)  Current method : testReceiveTip
+2014-05-27 10:54:07  test.testcases.notice.NoticeTest01.testReceiveTip(NoticeTest01.java:98)  Current method : testReceiveTip
+2014-05-27 10:54:08  test.testcases.notice.NoticeTest01.testReceiveTip(NoticeTest01.java:98)  Current method : testReceiveTip
+2014-05-27 11:28:03  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-27 11:28:03  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-27 11:29:06  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-27 11:29:06  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-27 11:29:06  test.testcases.notice.NoticeTest02.testSend(NoticeTest02.java:81)  Current method : testSend
+2014-05-27 11:29:06  test.testcases.notice.NoticeTest02.testSend(NoticeTest02.java:85)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-27 11:29:52  test.testcases.notice.NoticeTest02.testSend(NoticeTest02.java:81)  Current method : testSend
+2014-05-27 11:29:52  test.testcases.notice.NoticeTest02.testSend(NoticeTest02.java:85)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=02?????30?????????????????????????????, titleTxtField=02????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-27 11:30:41  test.testcases.notice.NoticeTest02.testSend(NoticeTest02.java:81)  Current method : testSend
+2014-05-27 11:30:41  test.testcases.notice.NoticeTest02.testSend(NoticeTest02.java:85)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=03?????30?????????????????????????????, titleTxtField=03????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-27 11:31:28  test.testcases.notice.NoticeTest02.testReceive(NoticeTest02.java:152)  Current method : testReceive
+2014-05-27 11:31:46  test.testcases.notice.NoticeTest02.testReceive(NoticeTest02.java:152)  Current method : testReceive
+2014-05-27 11:31:56  test.testcases.notice.NoticeTest02.testReceive(NoticeTest02.java:152)  Current method : testReceive
+2014-05-27 11:32:06  test.testcases.notice.NoticeTest02.testReceiveTip(NoticeTest02.java:106)  Current method : testReceiveTip
+2014-05-27 11:33:47  test.testcases.notice.NoticeTest02.testReceiveTip(NoticeTest02.java:106)  Current method : testReceiveTip
+2014-05-27 11:35:27  test.testcases.notice.NoticeTest02.testReceiveTip(NoticeTest02.java:106)  Current method : testReceiveTip
+2014-05-27 13:52:38  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-27 13:52:38  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-27 13:52:38  test.testcases.notice.NoticeTest02.testReceive(NoticeTest02.java:152)  Current method : testReceive
+2014-05-27 13:52:40  test.testcases.notice.NoticeTest02.testReceive(NoticeTest02.java:152)  Current method : testReceive
+2014-05-27 13:52:41  test.testcases.notice.NoticeTest02.testReceive(NoticeTest02.java:152)  Current method : testReceive
+2014-05-27 13:52:41  test.testcases.notice.NoticeTest02.testReceiveTip(NoticeTest02.java:106)  Current method : testReceiveTip
+2014-05-27 14:05:54  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-27 14:05:54  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-27 14:05:55  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:74)  Current method : testSend
+2014-05-27 14:05:55  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=03?????30?????????????????????????????, titleTxtField=03????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-27 14:06:47  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-27 14:06:47  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-27 14:06:48  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:74)  Current method : testSend
+2014-05-27 14:06:48  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=02?????30?????????????????????????????, titleTxtField=02????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-27 14:11:56  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-27 14:11:56  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-27 14:11:57  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:74)  Current method : testSend
+2014-05-27 14:11:57  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=02?????30?????????????????????????????, titleTxtField=02????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-27 14:12:44  test.testcases.notice.NoticeTest01.testReceive(NoticeTest01.java:143)  Current method : testReceive
+2014-05-27 14:13:01  test.testcases.notice.NoticeTest01.testReceiveTip(NoticeTest01.java:98)  Current method : testReceiveTip
+2014-05-27 14:13:57  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-27 14:13:57  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-27 14:13:58  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:74)  Current method : testSend
+2014-05-27 14:13:58  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-27 14:14:43  test.testcases.notice.NoticeTest01.testReceive(NoticeTest01.java:143)  Current method : testReceive
+2014-05-27 14:15:01  test.testcases.notice.NoticeTest01.testReceiveTip(NoticeTest01.java:98)  Current method : testReceiveTip
+2014-05-27 14:15:34  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-27 14:15:34  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-27 14:15:34  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:74)  Current method : testSend
+2014-05-27 14:15:34  test.testcases.notice.NoticeTest01.testSend(NoticeTest01.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=03?????30?????????????????????????????, titleTxtField=03????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-27 14:16:21  test.testcases.notice.NoticeTest01.testReceive(NoticeTest01.java:143)  Current method : testReceive
+2014-05-27 14:16:38  test.testcases.notice.NoticeTest01.testReceiveTip(NoticeTest01.java:98)  Current method : testReceiveTip
+2014-05-28 09:15:09  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 09:15:09  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 09:15:09  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 09:15:09  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 09:15:14  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:97)  Current method : testReceiveTip
+2014-05-28 09:16:58  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 09:16:58  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 09:16:58  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 09:16:58  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 09:16:59  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:97)  Current method : testReceiveTip
+2014-05-28 09:17:07  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:73)  Current method : testSend
+2014-05-28 09:17:07  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:77)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 09:18:05  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 09:18:05  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 09:18:05  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 09:18:05  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 09:18:06  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:73)  Current method : testSend
+2014-05-28 09:18:06  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:73)  Current method : testSend
+2014-05-28 09:18:06  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:77)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=02?????30?????????????????????????????, titleTxtField=02????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 09:18:06  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:77)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 09:19:11  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:142)  Current method : testReceive
+2014-05-28 09:19:27  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:97)  Current method : testReceiveTip
+2014-05-28 09:23:22  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 09:23:22  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 09:23:24  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:73)  Current method : testSend
+2014-05-28 09:23:24  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:77)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 09:24:09  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:142)  Current method : testReceive
+2014-05-28 09:24:25  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:97)  Current method : testReceiveTip
+2014-05-28 09:26:10  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 09:26:10  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 09:26:11  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:73)  Current method : testSend
+2014-05-28 09:26:11  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:77)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=02?????30?????????????????????????????, titleTxtField=02????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 09:26:56  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:142)  Current method : testReceive
+2014-05-28 09:27:12  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:97)  Current method : testReceiveTip
+2014-05-28 09:40:31  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 09:40:31  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 09:40:32  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:73)  Current method : testSend
+2014-05-28 09:40:32  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:77)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 09:41:17  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:97)  Current method : testReceiveTip
+2014-05-28 09:46:19  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 09:46:19  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 09:46:20  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:73)  Current method : testSend
+2014-05-28 09:46:20  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:77)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 09:47:05  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:97)  Current method : testReceiveTip
+2014-05-28 09:50:30  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 09:50:30  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 09:50:31  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:74)  Current method : testSend
+2014-05-28 09:50:31  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 09:51:17  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:98)  Current method : testReceiveTip
+2014-05-28 09:55:43  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 09:55:43  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 09:55:44  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:74)  Current method : testSend
+2014-05-28 09:55:44  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 09:56:29  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:98)  Current method : testReceiveTip
+2014-05-28 09:59:33  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 09:59:33  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 09:59:33  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:74)  Current method : testSend
+2014-05-28 09:59:33  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 10:00:20  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:98)  Current method : testReceiveTip
+2014-05-28 10:05:57  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 10:05:57  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 10:05:58  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:74)  Current method : testSend
+2014-05-28 10:05:58  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 10:06:42  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:98)  Current method : testReceiveTip
+2014-05-28 10:07:52  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 10:07:52  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 10:07:53  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:74)  Current method : testSend
+2014-05-28 10:07:53  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 10:08:39  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:98)  Current method : testReceiveTip
+2014-05-28 10:11:12  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 10:11:12  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 10:11:13  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:74)  Current method : testSend
+2014-05-28 10:11:13  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 10:12:02  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:98)  Current method : testReceiveTip
+2014-05-28 10:13:52  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 10:13:52  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 10:13:53  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:74)  Current method : testSend
+2014-05-28 10:13:53  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 10:14:37  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:98)  Current method : testReceiveTip
+2014-05-28 10:21:19  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 10:21:19  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 10:21:20  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:74)  Current method : testSend
+2014-05-28 10:21:20  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 10:22:04  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:98)  Current method : testReceiveTip
+2014-05-28 10:23:53  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 10:23:53  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 10:23:54  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:74)  Current method : testSend
+2014-05-28 10:23:54  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 10:24:39  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:98)  Current method : testReceiveTip
+2014-05-28 10:44:45  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 10:44:45  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 10:44:46  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:74)  Current method : testSend
+2014-05-28 10:44:46  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 10:45:34  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:98)  Current method : testReceiveTip
+2014-05-28 10:47:23  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 10:47:23  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 10:47:24  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:74)  Current method : testSend
+2014-05-28 10:47:24  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 10:48:10  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:98)  Current method : testReceiveTip
+2014-05-28 10:53:15  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 10:53:15  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 10:53:16  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:74)  Current method : testSend
+2014-05-28 10:53:16  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 10:54:01  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:98)  Current method : testReceiveTip
+2014-05-28 10:55:31  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 10:55:31  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 10:55:32  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:74)  Current method : testSend
+2014-05-28 10:55:32  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 10:56:38  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 10:56:38  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 10:56:39  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:74)  Current method : testSend
+2014-05-28 10:56:39  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 10:58:00  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 10:58:00  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 10:58:01  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:74)  Current method : testSend
+2014-05-28 10:58:01  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 10:58:45  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:98)  Current method : testReceiveTip
+2014-05-28 11:04:04  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-28 11:04:04  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-28 11:04:05  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:74)  Current method : testSend
+2014-05-28 11:04:05  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:78)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-28 11:04:53  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:98)  Current method : testReceiveTip
+2014-05-29 14:39:09  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 14:39:09  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 14:39:10  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 14:39:10  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-29 14:42:27  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 14:42:27  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 14:42:28  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 14:42:29  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-29 14:43:16  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 14:43:16  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 14:43:17  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 14:43:17  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-29 14:45:18  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 14:45:18  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 14:45:19  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 14:45:19  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-29 14:51:55  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 14:51:55  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 14:51:56  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 14:51:56  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-29 14:56:32  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 14:56:32  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 14:56:33  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 14:56:33  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-29 15:01:33  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 15:01:33  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 15:01:33  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 15:01:34  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-29 15:06:00  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 15:06:00  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 15:06:01  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 15:06:01  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-29 15:08:44  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 15:08:44  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 15:08:45  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 15:08:45  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, contentTxtField=01?????30?????????????????????????????, titleTxtField=01????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-29 15:12:27  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 15:12:27  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 15:12:28  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 15:12:28  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=?????????30?????????????????????????????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-29 15:44:38  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 15:44:38  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 15:45:52  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 15:45:52  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 15:45:53  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 15:45:53  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=?????????30?????????????????????????????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-29 16:10:36  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 16:10:36  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 16:10:37  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 16:10:37  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-29 16:21:00  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 16:21:00  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 16:21:01  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 16:21:01  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-29 16:25:14  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 16:25:14  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 16:25:14  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 16:25:15  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alicejoy, receiver02=alexandra, loginPassword=000000}
+2014-05-29 16:49:04  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 16:49:04  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 16:49:05  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 16:49:05  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-29 16:53:51  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 16:53:51  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 16:53:52  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 16:53:52  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-29 17:16:31  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 17:16:31  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 17:16:32  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 17:16:32  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-29 17:23:39  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 17:23:39  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 17:23:40  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 17:23:40  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-29 17:25:23  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 17:25:23  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 17:25:24  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 17:25:24  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-29 17:28:03  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 17:28:03  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 17:28:04  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 17:28:04  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-29 17:41:09  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 17:41:09  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 17:41:10  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 17:41:10  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-29 17:47:12  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 17:47:12  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 17:47:13  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 17:47:13  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-29 17:48:48  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-29 17:48:48  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-29 17:48:49  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:86)  Current method : testEdit
+2014-05-29 17:48:49  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:90)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 08:57:03  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 08:57:03  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 08:57:07  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 08:57:07  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 08:58:26  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 08:58:26  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 08:58:27  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 08:58:27  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 09:00:44  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 09:00:44  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 09:00:45  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 09:00:45  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 09:04:31  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 09:04:31  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 09:04:32  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 09:04:32  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 09:17:22  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 09:17:22  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 09:17:23  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 09:17:23  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 09:19:12  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 09:19:12  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 09:19:13  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 09:19:13  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 10:36:32  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 10:36:32  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 10:36:33  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 10:36:34  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 10:37:16  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 10:37:16  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 10:39:37  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 10:39:37  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 10:39:38  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 10:39:38  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 10:40:23  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 10:40:23  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 10:40:49  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:179)  Current method : testReceive
+2014-05-30 10:40:49  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 10:49:46  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 10:49:46  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 10:49:47  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 10:49:47  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 10:49:47  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 10:49:47  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 10:51:36  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 10:51:36  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 10:51:37  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 10:51:37  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 10:51:37  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 10:51:37  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 10:52:34  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 10:52:34  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 10:52:35  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 10:52:35  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 10:53:21  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 10:53:21  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 10:54:58  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:179)  Current method : testReceive
+2014-05-30 10:55:15  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 11:19:35  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 11:19:35  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 11:19:35  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 11:19:35  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 11:23:33  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 11:23:33  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 11:24:06  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 11:24:06  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 11:24:44  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 11:24:44  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 14:05:02  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 14:05:02  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 14:05:03  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 14:05:03  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 14:05:53  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 14:05:53  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 14:06:24  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 14:06:24  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 14:06:25  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 14:06:26  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 14:07:09  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:179)  Current method : testReceive
+2014-05-30 14:07:24  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 14:08:08  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 14:08:08  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 14:12:44  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 14:12:44  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 14:12:45  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 14:12:45  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 14:13:49  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:179)  Current method : testReceive
+2014-05-30 14:14:04  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 14:14:47  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 14:14:47  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 14:20:19  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 14:20:19  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 14:20:20  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 14:20:20  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 14:24:54  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 14:24:54  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 14:24:55  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 14:24:55  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 14:25:40  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 14:25:40  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 14:25:58  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 14:25:58  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 14:25:59  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 14:25:59  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 14:26:43  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:179)  Current method : testReceive
+2014-05-30 14:26:58  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 14:26:58  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 14:30:53  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 14:30:53  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 14:30:55  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 14:30:55  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 14:31:42  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:179)  Current method : testReceive
+2014-05-30 14:31:57  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 14:32:40  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 14:32:40  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 14:34:17  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 14:34:17  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 14:34:18  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 14:34:18  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 14:35:02  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:179)  Current method : testReceive
+2014-05-30 14:35:17  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 14:36:00  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 14:36:00  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:88)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 14:40:00  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 14:40:00  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 14:40:01  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 14:40:02  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 14:40:46  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:133)  Current method : testReceiveTip
+2014-05-30 14:41:28  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:84)  Current method : testEdit
+2014-05-30 14:57:02  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 14:57:02  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 14:57:03  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 14:57:03  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 14:57:48  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 14:58:31  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 15:00:04  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 15:00:04  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 15:00:05  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 15:00:05  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 15:00:55  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 15:02:08  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 15:09:38  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 15:09:38  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 15:09:39  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 15:09:39  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 15:10:27  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 15:11:13  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 15:11:13  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 15:11:14  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 15:11:14  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 15:12:00  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 15:12:44  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 15:14:35  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 15:14:35  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 15:14:36  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 15:15:22  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 15:16:16  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 15:16:16  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 15:16:17  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 15:17:34  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 15:18:34  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 15:18:34  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 15:18:35  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 15:19:23  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 15:21:00  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 15:21:00  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 15:21:01  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 15:21:44  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 15:22:21  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 15:22:21  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 15:22:22  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 15:22:22  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 15:23:05  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:180)  Current method : testReceive
+2014-05-30 15:23:23  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 15:24:12  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 15:58:30  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 15:58:30  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 15:58:31  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 15:59:18  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 16:22:37  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 16:22:37  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 16:22:38  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 16:23:20  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 16:23:45  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 16:23:45  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 16:23:46  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 16:23:46  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 16:24:31  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:179)  Current method : testReceive
+2014-05-30 16:24:49  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 16:25:36  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 16:27:11  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 16:27:11  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 16:27:12  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 16:27:12  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 16:27:57  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 16:28:55  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 16:29:45  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 16:29:45  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 16:29:46  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 16:30:35  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 16:33:54  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 16:33:54  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 16:33:56  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 16:33:56  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 16:34:41  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:177)  Current method : testReceive
+2014-05-30 16:34:57  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 16:36:08  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 16:36:53  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 16:36:53  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 16:36:54  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 16:37:40  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 16:42:14  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 16:42:14  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 16:42:15  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 16:42:16  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 16:43:01  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:179)  Current method : testReceive
+2014-05-30 16:43:17  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 16:44:31  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 17:00:34  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 17:00:34  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 17:00:35  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 17:00:35  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 17:01:21  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:181)  Current method : testReceive
+2014-05-30 17:01:37  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 17:02:50  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 17:10:46  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 17:10:46  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 17:10:47  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 17:10:47  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 17:11:33  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:181)  Current method : testReceive
+2014-05-30 17:11:49  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 17:13:02  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 17:16:07  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 17:16:07  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 17:16:08  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 17:16:08  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 17:16:54  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:181)  Current method : testReceive
+2014-05-30 17:17:10  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 17:18:23  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-30 17:19:02  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-30 17:19:02  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-30 17:19:03  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-30 17:19:03  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-30 17:19:47  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:181)  Current method : testReceive
+2014-05-30 17:20:03  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-30 17:21:26  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-31 14:56:20  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-31 14:56:20  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-31 14:56:28  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-31 14:56:28  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-31 14:56:35  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:181)  Current method : testReceive
+2014-05-31 14:56:53  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-31 14:57:36  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-31 15:08:35  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-31 15:08:35  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-31 15:08:36  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-31 15:08:36  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-31 15:09:24  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:181)  Current method : testReceive
+2014-05-31 15:09:43  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-31 15:10:56  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-31 15:11:28  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-31 15:11:28  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-31 15:11:29  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-31 15:12:12  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-31 15:14:25  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-31 15:14:25  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-31 15:14:26  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-31 15:14:26  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-31 15:15:16  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:182)  Current method : testReceive
+2014-05-31 15:15:36  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-31 15:16:49  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-31 15:19:01  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-31 15:19:01  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-31 15:19:02  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-31 15:19:02  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-31 15:19:41  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:182)  Current method : testReceive
+2014-05-31 15:20:01  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-31 15:20:43  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-31 15:22:22  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-31 15:22:22  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-31 15:22:23  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-31 15:22:23  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-31 15:23:54  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:182)  Current method : testReceive
+2014-05-31 15:24:13  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-31 15:25:26  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-31 15:27:16  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-31 15:27:16  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-31 15:27:17  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-31 15:27:17  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-31 15:28:05  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-31 15:29:26  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:182)  Current method : testReceive
+2014-05-31 15:29:46  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:134)  Current method : testReceiveTip
+2014-05-31 16:08:27  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-31 16:08:27  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-31 16:08:27  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-31 16:10:43  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-31 16:10:43  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-31 16:11:16  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-31 16:11:35  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-31 16:11:35  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-31 16:18:14  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-31 16:18:14  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-31 16:18:15  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-31 16:18:15  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-31 16:18:59  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-31 16:18:59  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-31 16:19:00  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-31 16:19:00  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-31 16:19:00  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-31 16:19:22  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-31 16:19:22  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-31 16:19:23  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-31 16:19:23  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-31 16:19:23  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-31 16:20:12  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-31 16:20:12  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-31 16:20:45  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-31 16:22:17  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-31 16:22:17  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-31 16:22:50  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-31 16:22:50  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-31 16:24:05  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-31 16:27:00  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-31 16:27:00  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-31 16:27:01  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-31 16:27:01  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-31 16:27:57  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:181)  Current method : testReceive
+2014-05-31 16:28:16  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:133)  Current method : testReceiveTip
+2014-05-31 16:29:33  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-31 16:29:33  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-31 16:30:06  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-31 16:30:06  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-31 16:31:13  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit
+2014-05-31 16:31:20  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-31 16:31:20  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-31 16:31:21  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-31 16:31:21  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-31 16:32:12  test.testcases.notice.NoticeTest.testReceive(NoticeTest.java:177)  Current method : testReceive
+2014-05-31 16:32:30  test.testcases.notice.NoticeTest.testReceiveTip(NoticeTest.java:133)  Current method : testReceiveTip
+2014-05-31 16:33:17  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:693)  I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+2014-05-31 16:33:17  org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:700)  Retrying request
+2014-05-31 16:33:18  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:60)  Current method : testSend
+2014-05-31 16:33:18  test.testcases.notice.NoticeTest.testSend(NoticeTest.java:64)  the paraMap is{sender=zhuangy, uploadFile=E:\20140521_wyj_automationtest.ppt, editTitleTxt=????????????????, editContentTxt=????, contentTxtField=?????30?????????????????????????????, titleTxtField=????????????, receiver01=alexandra, receiver02=alicejoy, loginPassword=000000}
+2014-05-31 16:34:19  test.testcases.notice.NoticeTest.testEdit(NoticeTest.java:85)  Current method : testEdit

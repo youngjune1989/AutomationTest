@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestBase]">
+  <parameter name="notice_para_02" value="/src/resources/notice/notice_para_02.xml"/>
+  <parameter name="baseUrl" value="http://192.168.30.170:8887"/>
+  <parameter name="firefox_dir" value="D:\Program Files\Mozilla Firefox\firefox.exe"/>
+  <parameter name="notice_para_01" value="/src/resources/notice/notice_para_01.xml"/>
+  <parameter name="ff" value=".\\utils\\chromedriver.exe"/>
+  <parameter name="ie" value="webdriver.ie.driver"/>
+  <parameter name="chrome" value=".\\utils\\IEDriverServer.exe"/>
+  <parameter name="ie_dir" value=".\\utils\\IEDriverServer.exe"/>
+  <parameter name="organization_para" value="/src/resources/organization/organization_para.xml"/>
+  <parameter name="chrome_dir" value=".\\utils\\chromedriver.exe"/>
+  <listeners>
+    <listener class-name="test.utilities.CustomReporter"/>
+  </listeners>
+  <test name="TestNotice_01(failed)">
+    <parameter name="notice_para_01" value="/src/resources/notice/notice_para_01.xml"/>
+    <classes>
+      <class name="test.testcases.notice.NoticeTest">
+        <methods>
+          <include name="testSend"/>
+        </methods>
+      </class> <!-- test.testcases.notice.NoticeTest -->
+    </classes>
+  </test> <!-- TestNotice_01(failed) -->
+  <test name="TestNotice_02(failed)">
+    <parameter name="notice_para_02" value="/src/resources/notice/notice_para_02.xml"/>
+    <classes>
+      <class name="test.testcases.notice.NoticeTest">
+        <methods>
+          <include name="testSend"/>
+        </methods>
+      </class> <!-- test.testcases.notice.NoticeTest -->
+    </classes>
+  </test> <!-- TestNotice_02(failed) -->
+</suite> <!-- Failed suite [TestBase] -->

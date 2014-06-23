@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-TestBase">
+              <span class="suite-name border-passed">TestBase</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-TestBase">
+                    <span>E:\wyj\workspace\DCV3Test\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-TestBase">
+                    <span class="test-stats">2 tests</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-TestBase">
+                    <span>2 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-TestBase">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-TestBase">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-TestBase">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-TestBase">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">7 methods,   7 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-TestBase" class="hide-methods passed suite-TestBase"> (hide)</a> <!-- hide-methods passed suite-TestBase -->
+                      <a href="#" panel-name="suite-TestBase" class="show-methods passed suite-TestBase"> (show)</a> <!-- show-methods passed suite-TestBase -->
+                    </span>
+                    <div class="method-list-content passed suite-TestBase">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-TestBase" title="test.testcases.notice.NoticeTest" hash-for-method="testDelete">testDelete</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-TestBase" title="test.testcases.notice.NoticeTest" hash-for-method="testEdit(/src/resources/notice/notice_para.xml)">testEdit(/src/resources/notice/notice_para.xml)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-TestBase" title="test.testcases.notice.NoticeTest" hash-for-method="testReceive(/src/resources/notice/notice_para.xml)">testReceive(/src/resources/notice/notice_para.xml)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-TestBase" title="test.testcases.notice.NoticeTest" hash-for-method="testReceiveTip(/src/resources/notice/notice_para.xml)">testReceiveTip(/src/resources/notice/notice_para.xml)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-TestBase" title="test.testcases.notice.NoticeTest" hash-for-method="testSend(/src/resources/notice/notice_para.xml)">testSend(/src/resources/notice/notice_para.xml)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-TestBase" title="test.testcases.notice.NoticeTest" hash-for-method="testSend(/src/resources/notice/notice_para.xml)">testSend(/src/resources/notice/notice_para.xml)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-TestBase" title="test.testcases.notice.NoticeTest" hash-for-method="testStatic">testStatic</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-TestBase -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-TestBase" class="panel TestBase">
+          <div class="suite-TestBase-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">test.testcases.notice.NoticeTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testDelete">
+                  </a> <!-- testDelete -->
+                  <span class="method-name">testDelete</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testEdit(/src/resources/notice/notice_para.xml)">
+                  </a> <!-- testEdit(/src/resources/notice/notice_para.xml) -->
+                  <span class="method-name">testEdit</span>
+                  <span class="parameters">(/src/resources/notice/notice_para.xml)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testReceive(/src/resources/notice/notice_para.xml)">
+                  </a> <!-- testReceive(/src/resources/notice/notice_para.xml) -->
+                  <span class="method-name">testReceive</span>
+                  <span class="parameters">(/src/resources/notice/notice_para.xml)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testReceiveTip(/src/resources/notice/notice_para.xml)">
+                  </a> <!-- testReceiveTip(/src/resources/notice/notice_para.xml) -->
+                  <span class="method-name">testReceiveTip</span>
+                  <span class="parameters">(/src/resources/notice/notice_para.xml)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testSend(/src/resources/notice/notice_para.xml)">
+                  </a> <!-- testSend(/src/resources/notice/notice_para.xml) -->
+                  <span class="method-name">testSend</span>
+                  <span class="parameters">(/src/resources/notice/notice_para.xml)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testSend(/src/resources/notice/notice_para.xml)">
+                  </a> <!-- testSend(/src/resources/notice/notice_para.xml) -->
+                  <span class="method-name">testSend</span>
+                  <span class="parameters">(/src/resources/notice/notice_para.xml)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="testStatic">
+                  </a> <!-- testStatic -->
+                  <span class="method-name">testStatic</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-TestBase-class-passed -->
+        </div> <!-- panel TestBase -->
+        <div panel-name="test-xml-TestBase" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">E:\wyj\workspace\DCV3Test\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;TestBase&quot;&gt;
+  &lt;parameter name=&quot;baseUrl&quot; value=&quot;http://192.168.30.170:8887&quot;/&gt;
+  &lt;parameter name=&quot;firefox_dir&quot; value=&quot;D:\Program Files\Mozilla Firefox\firefox.exe&quot;/&gt;
+  &lt;parameter name=&quot;ff&quot; value=&quot;.\\utils\\chromedriver.exe&quot;/&gt;
+  &lt;parameter name=&quot;chrome&quot; value=&quot;.\\utils\\IEDriverServer.exe&quot;/&gt;
+  &lt;parameter name=&quot;ie&quot; value=&quot;webdriver.ie.driver&quot;/&gt;
+  &lt;parameter name=&quot;ie_dir&quot; value=&quot;.\\utils\\IEDriverServer.exe&quot;/&gt;
+  &lt;parameter name=&quot;organization_para&quot; value=&quot;/src/resources/organization/organization_para.xml&quot;/&gt;
+  &lt;parameter name=&quot;chrome_dir&quot; value=&quot;.\\utils\\chromedriver.exe&quot;/&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;test.utilities.CustomReporter&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test name=&quot;Notice checkin Test&quot;&gt;
+    &lt;parameter name=&quot;notice_para&quot; value=&quot;/src/resources/notice/notice_para.xml&quot;/&gt;
+    &lt;groups&gt;
+      &lt;run&gt;
+        &lt;include name=&quot;checkintest&quot;/&gt;
+      &lt;/run&gt;
+    &lt;/groups&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;test.testcases.notice.NoticeTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Notice checkin Test --&gt;
+  &lt;test name=&quot;Notice function Test&quot;&gt;
+    &lt;parameter name=&quot;notice_para&quot; value=&quot;/src/resources/notice/notice_para.xml&quot;/&gt;
+    &lt;groups&gt;
+      &lt;run&gt;
+        &lt;include name=&quot;functiontest&quot;/&gt;
+      &lt;/run&gt;
+    &lt;/groups&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;test.testcases.notice.NoticeTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Notice function Test --&gt;
+&lt;/suite&gt; &lt;!-- TestBase --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-TestBase" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for TestBase</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Notice checkin Test (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">Notice function Test (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-TestBase" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for TestBase</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">checkintest</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">testReceive</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testReceiveTip</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testSend</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">functiontest</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">testDelete</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testEdit</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testSend</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">testStatic</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-TestBase" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for TestBase</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_TestBase');
+function tableData_TestBase() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(7);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'testSend')
+data.setCell(0, 2, 'test.testcases.notice.NoticeTest')
+data.setCell(0, 3, 50926);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'testSend')
+data.setCell(1, 2, 'test.testcases.notice.NoticeTest')
+data.setCell(1, 3, 48896);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'testReceiveTip')
+data.setCell(2, 2, 'test.testcases.notice.NoticeTest')
+data.setCell(2, 3, 42333);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'testEdit')
+data.setCell(3, 2, 'test.testcases.notice.NoticeTest')
+data.setCell(3, 3, 41475);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'testStatic')
+data.setCell(4, 2, 'test.testcases.notice.NoticeTest')
+data.setCell(4, 3, 22058);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'testReceive')
+data.setCell(5, 2, 'test.testcases.notice.NoticeTest')
+data.setCell(5, 3, 18585);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'testDelete')
+data.setCell(6, 2, 'test.testcases.notice.NoticeTest')
+data.setCell(6, 3, 12406);
+window.suiteTableData['TestBase']= { tableData: data, tableDiv: 'times-div-TestBase'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 3 minutes</span>
+              <div id="times-div-TestBase">
+              </div> <!-- times-div-TestBase -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-TestBase" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for TestBase</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">testReceive(/src/resources/notice/notice_para.xml)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Title assert success</span>
+                <span class="reporter-method-output">(Before read)Status assert success</span>
+                <span class="reporter-method-output">Content assert success.</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">testReceiveTip(/src/resources/notice/notice_para.xml)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Timed out after 5 seconds waiting for test.tasks.notice.TestNoticeTasks$2@1922f46
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:11:15'
+System info: host: 'lenovo-PC', ip: '192.168.30.170', os.name: 'Windows Vista', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_10-rc2'
+Driver info: driver.version: unknown</span>
+                <span class="reporter-method-output">Title assert success.</span>
+                <span class="reporter-method-output">Cannot find elements when the XPath expression is null.</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">testSend(/src/resources/notice/notice_para.xml)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">message has been send.</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">testEdit(/src/resources/notice/notice_para.xml)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">message has been send.</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">testSend(/src/resources/notice/notice_para.xml)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">message has been send.</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-TestBase" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">5 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">test.testcases.notice.NoticeTest</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">testEdit</span>
+                <br/>
+                <span class="ignored-method-name">testReceive</span>
+                <br/>
+                <span class="ignored-method-name">testReceiveTip</span>
+                <br/>
+                <span class="ignored-method-name">testStatic</span>
+                <br/>
+                <span class="ignored-method-name">testDelete</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-TestBase" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">test.testcases.notice.NoticeTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(/src/resources/notice/notice_para.xml, http://192.168.30.170:8887)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">testSend(/src/resources/notice/notice_para.xml)</span>
+                <span class="method-start">5098 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">testReceive(/src/resources/notice/notice_para.xml)</span>
+                <span class="method-start">56026 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">testReceiveTip(/src/resources/notice/notice_para.xml)</span>
+                <span class="method-start">74612 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">116946 ms</span>
+              </div> <!-- configuration-class after -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(/src/resources/notice/notice_para.xml, http://192.168.30.170:8887)</span>
+                <span class="method-start">117995 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">testSend(/src/resources/notice/notice_para.xml)</span>
+                <span class="method-start">122490 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">testDelete</span>
+                <span class="method-start">171387 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">testEdit(/src/resources/notice/notice_para.xml)</span>
+                <span class="method-start">183794 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">testStatic</span>
+                <span class="method-start">225270 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">247328 ms</span>
+              </div> <!-- configuration-class after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>
